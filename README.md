@@ -1,0 +1,1 @@
+Hey! This is an Machine Learning based Weather Forecast web application that provides you with many other factors of weather and not just temperature. And also it provides insights on local news, zonal mappings for various factors and much more.
